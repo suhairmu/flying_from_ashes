@@ -1,0 +1,1 @@
+#Using inheritance with base & derived class, same method name and same number of arguments.
